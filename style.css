@@ -1,0 +1,125 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+
+.orange-color{
+    color:  orange;
+}
+.silver-color{
+    color: silver;
+}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(Orange , yellow );
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    
+    
+}
+
+.images{
+    width: 100%;
+}
+
+
+
+.text{
+    text-align: center;
+    color: gray;
+}
+.text1{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+
+    
+}
+
+
+.background{
+    background-image: url(Images/7.png);
+    margin-top: 80px;
+   
+}
+
+.recipi-area div{
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+    margin: 10px;
+
+}
+
+#fish{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    border-radius: 25px;
+}
+
+#meat{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    border-radius: 25px;
+
+
+}
+#salad{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    border-radius: 25px;
+
+}
+.footer{
+    background-image: linear-gradient(black, black);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.footer-background{
+    background-image: linear-gradient(pink, white);
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+.footer-text{
+    text-align: center;
+}
+
+  
+
